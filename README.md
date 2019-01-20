@@ -49,3 +49,8 @@ https://free-ss.site/
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image11.png)
 
 接下来就可以享受高速的下载体验了，你的下载速度取决于你在shadowsocks中使用的线路的好坏
+
+注意：当某个googledrive档案的下载人数过多时会提示资源下载超额，需要等待24小时以后才可下载的提示，出现这个问题请参考以下方法进行破解（需要自行注册一个Google账号）
+
+
+
