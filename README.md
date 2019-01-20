@@ -29,4 +29,6 @@ https://free-ss.site/
 
 接下来配置IDM，IDM需要下载破解版，下载地址请自行上网搜索，下载完成后需要进行配置
 
-
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image5.png)
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image6.png)
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image7.png)
