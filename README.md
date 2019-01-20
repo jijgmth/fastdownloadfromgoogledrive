@@ -37,7 +37,14 @@ https://free-ss.site/
 
 一般在下载好的IDM文件夹里面可以找到如下图这个.crx格式的文件，这个就是浏览器扩展的安装包，将这个安装包拖到浏览器窗口中就可以实现安装
 
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image8.png)
 
 提醒一句，Chrome浏览器有可能会因为插件来源不明而导致无法正常安装，如果出现这个情况请选择360系列的浏览器，下面以360极速浏览器为例，插件拖进去之后添加扩展，然后需要手动进入扩展中心，找到对应的扩展插件，然后勾选启用，记住底下的在隐身模式中启用和允许访问文件网址务必勾选上否则可能无法正常唤起IDM，Chrome浏览器同理
 
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image9.png)
 
+最后，在安装好插件的浏览器中打开Googledrive的分享链接，点击右上角的下载按钮，正常来说应该会唤起IDM的下载界面
+
+
+
+接下来就可以享受高速的下载体验了，你的下载速度取决于你在shadowsocks中使用的线路的好坏
