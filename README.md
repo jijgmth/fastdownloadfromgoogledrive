@@ -21,4 +21,7 @@ https://free-ss.site/
 
 ![image](https://free-ss.site/v/direct_access.png)
 
-然后查看最新的分享列表，找到左侧评分较高的链接，将对应的IP地址、端口号、密码、加密方式一次填入shadowsocks界面中，然后保存
+然后查看最新的分享列表，找到左侧评分较高的链接，将对应的IP地址、端口号、密码、加密方式依次填入shadowsocks界面中，然后保存
+
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image4.png)
+
