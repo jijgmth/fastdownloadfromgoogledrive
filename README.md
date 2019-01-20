@@ -45,6 +45,7 @@ https://free-ss.site/
 
 最后，在安装好插件的浏览器中打开Googledrive的分享链接，点击右上角的下载按钮，正常来说应该会唤起IDM的下载界面
 
-
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image10.png)
+![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image11.png)
 
 接下来就可以享受高速的下载体验了，你的下载速度取决于你在shadowsocks中使用的线路的好坏
