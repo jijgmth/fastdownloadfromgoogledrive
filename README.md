@@ -27,8 +27,12 @@ https://free-ss.site/
 
 至此，shadowsocks的部分就算配置完成了
 
-接下来配置IDM，IDM需要下载破解版，下载地址请自行上网搜索，下载完成后需要进行配置
+接下来配置IDM，IDM需要下载破解版，下载地址请自行上网搜索，下载完成后需要进行配置（不同版本的IDM配置界面可能会有一些不一样，但是这些选项都有）
 
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image5.png)
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image6.png)
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image7.png)
+
+最后，需要在浏览器中安装一个扩展插件，这个插件的作用是接管浏览器的下载事件，就是原本是浏览器下载的改用IDM进行下载
+
+一般在下载好的IDM文件夹里面可以找到如下图这个.crx格式的文件，这个就是浏览器扩展的安装包，将这个安装包拖到浏览器窗口中就可以实现安装
