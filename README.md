@@ -21,7 +21,7 @@ https://free-ss.site/
 
 ![image](https://free-ss.site/v/direct_access.png)
 
-然后查看最新的分享列表，找到左侧评分较高的链接，将对应的IP地址、端口号、密码、加密方式依次填入shadowsocks界面中，然后保存，最后按照下图所示启动代理，然后打开浏览器尝试进入Google、YouTube等网站，如果能正常打开就说明这条线路是有效的，否则需要重新更换其他线路
+然后查看最新的分享列表，找到左侧评分较高的链接（优先选择US（美国）的线路，这样下载体验会更好），将对应的IP地址、端口号、密码、加密方式依次填入shadowsocks界面中，然后保存，最后按照下图所示启动代理，然后打开浏览器尝试进入Google、YouTube等网站，如果能正常打开就说明这条线路是有效的，否则需要重新更换其他线路
 
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image4.png)
 
