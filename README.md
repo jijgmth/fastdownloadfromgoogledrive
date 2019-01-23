@@ -53,6 +53,9 @@ https://free-ss.site/
 注意：当某个googledrive档案的下载人数过多时会提示资源下载超额，需要等待24小时以后才可下载的提示，出现这个问题请参考以下方法进行破解（需要自行注册一个Google账号）
 
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image12.png)
+
+然后进入到你自己的Google Drive中找到刚才转存的档案
+
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image13.png)
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image14.png)
 
