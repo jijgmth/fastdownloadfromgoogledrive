@@ -27,7 +27,7 @@ https://free-ss.site/
 
 至此，shadowsocks的部分就算配置完成了
 
-接下来配置IDM，IDM需要下载破解版，下载地址请自行上网搜索，下载完成后需要进行配置（不同版本的IDM配置界面可能会有一些不一样，但是这些选项都有）
+接下来配置IDM，IDM需要下载破解版，文件我已经上传了自己下载，下载完成后需要进行配置（不同版本的IDM配置界面可能会有一些不一样，但是这些选项都有）
 
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image5.png)
 ![image](https://github.com/jijgmth/dlfromgoogledrive/blob/master/image/image6.png)
